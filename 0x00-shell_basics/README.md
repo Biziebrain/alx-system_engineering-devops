@@ -13,3 +13,4 @@
 12-file type prints the type of file iamafile is
 13-smybolic link is created
 14-copy html will copy all the HTML files from the current working dir
+100-lets move, will move all files beginning wit an uppercase letter to the dir /tmp/u
