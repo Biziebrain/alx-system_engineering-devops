@@ -9,3 +9,4 @@
 8-firstdelete will delete the file betty in /tmp/my_first_directory
 9-firstdirdeletion will delete the directory my_first_directory in /tmp
 10-back changes the working dir to the previous one
+11-lists will list all files in the working dir and the /boot dir too
