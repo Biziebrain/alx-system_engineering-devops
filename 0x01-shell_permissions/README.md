@@ -8,4 +8,5 @@
 7-everybody adds execution permission to the owner and others
 8-Jame Bond sets permission to other user only
 9-John Doe sets the mode of the file hello
-10-mirror permissions sets the mode as the same 
+10-mirror permissions sets the mode as the same
+11-directories oermissions adds execute permission to all subdirectories of the current directory of the owner 
