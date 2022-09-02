@@ -12,4 +12,6 @@
 11-directories oermissions adds execute permission to all subdirectories of the current directory of the owner
 12-directory permissions creates a dir called my_dir
 13-change group changes the group owner
-14-change the owner to vincent and the group owner to staff 
+14-change the owner to vincent and the group owner to staff
+15-changes the owner and group owner respectively
+ 
