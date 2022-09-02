@@ -7,4 +7,5 @@
 6-multiple_permissions execute permission to the owner and the group owner
 7-everybody adds execution permission to the owner and others
 8-Jame Bond sets permission to other user only
-9-John Doe sets the mode of the file hello 
+9-John Doe sets the mode of the file hello
+10-mirror permissions sets the mode as the same 
