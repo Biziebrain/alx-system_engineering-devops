@@ -12,3 +12,4 @@
 11-lists will list all files in the working dir and the /boot dir too
 12-file type prints the type of file iamafile is
 13-smybolic link is created
+14-copy html will copy all the HTML files from the current working dir
